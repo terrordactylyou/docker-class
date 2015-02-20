@@ -8,6 +8,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+:w
 :x
 
 # Search String History (newest to oldest):
@@ -21,16 +23,24 @@
 # Registers:
 
 # File marks:
-'0  3  26  ~/myimage/Dockerfile
+'0  6  24  ~/myimage/Dockerfile
+'1  4  1  ~/myimage/Dockerfile
+'2  3  26  ~/myimage/Dockerfile
 
 # Jumplist (newest first):
--'  3  26  ~/myimage/Dockerfile
+-'  6  24  ~/myimage/Dockerfile
 -'  1  0  ~/myimage/Dockerfile
+-'  4  1  ~/myimage/Dockerfile
+-'  3  26  ~/myimage/Dockerfile
 
 # History of marks within files (newest to oldest):
 
 > ~/myimage/Dockerfile
-	"	3	26
-	^	3	27
-	.	3	26
+	"	6	24
+	^	6	25
+	.	6	0
 	+	3	26
+	+	4	0
+	+	5	0
+	+	4	1
+	+	6	0
